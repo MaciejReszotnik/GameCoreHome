@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCore", "GameCore\GameCore.csproj", "{E98BFC20-E42D-4AD5-A61F-2BF8DCA1FCAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCore.Specs", "GameCore.Specs\GameCore.Specs.csproj", "{EFAF9585-C7FA-4AFB-8E99-EEFF9B570552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E98BFC20-E42D-4AD5-A61F-2BF8DCA1FCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98BFC20-E42D-4AD5-A61F-2BF8DCA1FCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98BFC20-E42D-4AD5-A61F-2BF8DCA1FCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98BFC20-E42D-4AD5-A61F-2BF8DCA1FCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAF9585-C7FA-4AFB-8E99-EEFF9B570552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAF9585-C7FA-4AFB-8E99-EEFF9B570552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAF9585-C7FA-4AFB-8E99-EEFF9B570552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAF9585-C7FA-4AFB-8E99-EEFF9B570552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {313F7E13-0CD7-4B59-94ED-03AC4AF23F51}
+	EndGlobalSection
+EndGlobal
