@@ -13,6 +13,7 @@ namespace GameCore
         public bool IsDead { get; private set; } = false;
 
         public string Race { get; set; }
+        public int DamageResistance { get; set; }
 
         public void Hit(int damage)
         {
